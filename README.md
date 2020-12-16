@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 My name is **Liu Haoyang**
 
-- 🔭 I’m currently working on [Dice · a cloud native PaaS](https://dice.terminus.io).
+- 🔭 I’m currently working on PaaS.
 - 🖖 I’m currently focusing on large scale monitoring system.
 - 🌱 I’m currently learning distributed system.
 - 💕 I’m a cloud computing enthusiast.
