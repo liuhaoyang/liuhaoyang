@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 My name is **Liu Haoyang**
 
-- 🔭 I’m currently working on [Erda Project](https://github.com/erda-project) (a cloud native PaaS).
-- 🖖 I’m currently focusing on large scale monitoring system.
+- 🔭 I’m currently working on ByteDance APM Server Team.
+- 🖖 I’m currently focusing on large scale observability infrastructure.
 - 🌱 I’m currently learning distributed system.
-- 💕 I’m a cloud computing enthusiast.
