@@ -1,4 +1,3 @@
-### Hi, I'm Haoyang 👋
 
 <!--
 **liuhaoyang/liuhaoyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,16 +12,23 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Github Stats](https://github-readme-stats.vercel.app/api?username=liuhaoyang&show_icons=true)
 -->
 
+### Hi, I'm Haoyang 👋
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=liuhaoyang&show_icons=true)
+I have spent years listening to machines.
 
-I build infrastructure for complex systems.
+Metrics, traces, logs, alerts —
+small signals rising from the deep water of distributed systems,
+asking to be understood.
 
-I used to listen to production through metrics, traces, logs, alerts, and APM — turning the noise of distributed systems into signals engineers could trust.
+Today, I work on Agent Harness, AI Native Platform, and Code Agent infrastructure —
+building paths for agents to enter codebases, touch tools, follow workflows,
+and learn the shape of real engineering.
 
-Now I’m focused on Agent Harness, AI Native Platform, and Code Agent infrastructure — helping agents read code, use tools, follow workflows, and survive inside real engineering worlds.
+Somewhere between infrastructure and intelligence,
+I am still doing the same thing:
 
-Still tracing the shape of complexity,
-just in a new language.
+turning chaos into language, and language back into systems.
+
