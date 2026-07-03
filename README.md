@@ -16,19 +16,19 @@ Here are some ideas to get you started:
 -->
 
 ### Hi, I'm Haoyang 👋
-
-I have spent years listening to machines.
-
-Metrics, traces, logs, alerts —
-small signals rising from the deep water of distributed systems,
+  
+I have spent years listening to machines.  
+  
+Metrics, traces, logs, alerts —  
+small signals rising from the deep water of distributed systems,  
 asking to be understood.
 
-Today, I work on Agent Harness, AI Native Platform, and Code Agent infrastructure —
-building paths for agents to enter codebases, touch tools, follow workflows,
-and learn the shape of real engineering.
+Today, I work on Agent Harness, AI Native Platform, and Code Agent infrastructure —  
+building paths for agents to enter codebases, touch tools, follow workflows,  
+and learn the shape of real engineering.  
 
-Somewhere between infrastructure and intelligence,
-I am still doing the same thing:
-
+Somewhere between infrastructure and intelligence,  
+I am still doing the same thing:  
+  
 turning chaos into language, and language back into systems.
 
