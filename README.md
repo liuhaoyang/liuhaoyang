@@ -16,19 +16,23 @@ Here are some ideas to get you started:
 -->
 
 ### Hi, I'm Haoyang 👋
-  
-I have spent years listening to machines.  
-  
+
+I have spent years listening to machines.
+
 Metrics, traces, logs, alerts —  
 small signals rising from the deep water of distributed systems,  
 asking to be understood.
 
-Today, I work on Agent Harness, AI Native Platform, and Code Agent infrastructure —  
-building paths for agents to enter codebases, touch tools, follow workflows,  
-and learn the shape of real engineering.  
+Along the way, I began building systems for agents —  
+harnesses, AI-native platforms, and the infrastructure  
+that lets them navigate codebases, use tools, and follow workflows.
+
+Today, I work on LLM evaluation —  
+designing coding and long-horizon tasks,  
+exploring what models can do, where they fail,  
+and how the harness around them shapes their behavior.
 
 Somewhere between infrastructure and intelligence,  
-I am still doing the same thing:  
-  
-turning chaos into language, and language back into systems.
+I am still doing the same thing:
 
+turning chaos into language, and language back into systems.
