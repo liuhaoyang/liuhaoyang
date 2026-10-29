@@ -24,7 +24,7 @@ small signals rising from the deep water of distributed systems,
 asking to be understood.
 
 Along the way, I began building systems for agents —  
-harnesses, AI-native platforms, and the infrastructure  
+harness, AI-native platform, and the infrastructure  
 that lets them navigate codebases, use tools, and follow workflows.
 
 Today, I work on LLM evaluation —  
